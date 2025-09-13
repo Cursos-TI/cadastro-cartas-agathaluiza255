@@ -8,6 +8,7 @@
 
 int main() {
     printf("cartasSupertrunfo!\n");
+    printf("novo comite\n");
 
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
